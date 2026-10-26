@@ -1,0 +1,6 @@
+reports/*
+!reports/.gitkeep
+web/data/latest.json
+.run.lock
+__pycache__/
+*.pyc
